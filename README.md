@@ -54,7 +54,7 @@ Website : https://pjreddie.com/darknet/
 ● Update libraries: `sudo apt-get update`<br >
 ● Export Cuda Path: `export PATH=/usr/local/cuda-10.0/bin${PATH:+:${PATH}}`
                     `export LD_LIBRARY_PATH=/usr/local/cuda-10.0/lib64${LD_LIBRARY_PATH:+:${LD_LIBRARY_PATH}}`<br >
-● Installing Darknet: `git clone https://github.com/ArghyaChatterjee/Mission-Planner-for-Octocopters.git`<br >
+● Installing Darknet: `git clone https://github.com/ArghyaChatterjee/Octocopter-for-Fire-and-Flood-Management.git`<br >
                        `cd darknet`<br >
                        `wget https://pjreddie.com/media/files/yolov3-tiny.weights`<br >
                        `make`<br >
