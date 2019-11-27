@@ -54,3 +54,6 @@ MONO_LOG_LEVEL=debug mono MissionPlanner.exe
 
 you need prereq's
 sudo apt-get install mono-runtime libmono-system-windows-forms4.0-cil libmono-system-core4.0-cil libmono-winforms2.0-cil libmono-corlib2.0-cil libmono-system-management4.0-cil libmono-system-xml-linq4.0-cil
+
+# Darknet-for-Object-Detection-by-Octocopters <br >
+
