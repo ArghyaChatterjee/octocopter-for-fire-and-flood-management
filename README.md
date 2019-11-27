@@ -1,11 +1,12 @@
-# Mission-Planner-for-Octocopter <br >
+# Octocopter-for-fire-and-flood-management <br >
 
 It's a remote controlled drone with 8 arms to fly and an additional arm to carry fire fighting hose pipe to throw water to fire affected area, and to carry food to people in flood affected area.
+
+# Mission-Planner-for-Octocopter
+
 For actual info regarding mission planner, visit <br >
 Github page : https://github.com/ArduPilot/MissionPlanner<br >
 Website : http://ardupilot.org/planner/  
-
-# How to compile
 
 1. Install software
 
@@ -46,6 +47,10 @@ MONO_LOG_LEVEL=debug mono MissionPlanner.exe
 `sudo apt-get install mono-runtime libmono-system-windows-forms4.0-cil libmono-system-core4.0-cil libmono-winforms2.0-cil libmono-corlib2.0-cil libmono-system-management4.0-cil libmono-system-xml-linq4.0-cil`
 
 # Darknet-for-Object-Detection-by-Octocopter <br >
+For actual info regarding Darknet, visit <br >
+Github page : https://github.com/AlexeyAB/darknet<br >
+Website : https://pjreddie.com/darknet/  
+
 ● Update libraries: `sudo apt-get update`<br >
 ● Export Cuda Path: `export PATH=/usr/local/cuda-10.0/bin${PATH:+:${PATH}}`
                     `export LD_LIBRARY_PATH=/usr/local/cuda-10.0/lib64${LD_LIBRARY_PATH:+:${LD_LIBRARY_PATH}}`<br >
