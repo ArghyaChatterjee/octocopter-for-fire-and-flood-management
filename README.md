@@ -3,8 +3,6 @@
 It's a remote controlled drone with 8 arms to fly and an additional arm to carry fire fighting hose pipe to throw water to fire affected area, and to carry food to people in flood affected area.
 For actual info regarding mission planner, visit:https://github.com/ArduPilot/MissionPlanner
 
-MissionPlanner
-
 Website : http://ardupilot.org/planner/  
   
 Forum : http://discuss.ardupilot.org/c/ground-control-software/mission-planner
