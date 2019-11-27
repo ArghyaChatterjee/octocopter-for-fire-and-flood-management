@@ -1,10 +1,9 @@
-# Mission-Planner-for-Octocopters
+# Mission-Planner-for-Octocopters <br >
+
 It's a remote controlled drone with 8 arms to fly and an additional arm to carry fire fighting hose pipe to throw water to fire affected area, and to carry food to people in flood affected area.
 For actual info regarding mission planner, visit:https://github.com/ArduPilot/MissionPlanner
-MissionPlanner
-==============
 
-[![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/ArduPilot/MissionPlanner?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge) [![Build status](https://ci.appveyor.com/api/projects/status/2c5tbxr2wvcguihp?svg=true)](https://ci.appveyor.com/project/meee1/missionplanner)
+MissionPlanner
 
 Website : http://ardupilot.org/planner/  
   
@@ -57,6 +56,3 @@ MONO_LOG_LEVEL=debug mono MissionPlanner.exe
 
 you need prereq's
 sudo apt-get install mono-runtime libmono-system-windows-forms4.0-cil libmono-system-core4.0-cil libmono-winforms2.0-cil libmono-corlib2.0-cil libmono-system-management4.0-cil libmono-system-xml-linq4.0-cil
-
-
-[![FlagCounter](https://s01.flagcounter.com/count2/A4bA/bg_FFFFFF/txt_000000/border_CCCCCC/columns_8/maxflags_40/viewers_0/labels_1/pageviews_0/flags_0/percent_0/)](https://info.flagcounter.com/A4bA)
