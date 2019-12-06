@@ -10,38 +10,38 @@ Website : http://ardupilot.org/planner/
 
 1. Install software
 
-   ● Git
+   a. Git
      https://git-for-windows.github.io/
      Select a file summarized as "Full installer for official Git for Windows"
      with the highest version<br >
-   ● TortoiseGit
+   b. TortoiseGit
      https://tortoisegit.org/<br >
-   ● Visual Studio
+   c. Visual Studio
      http://www.visualstudio.com/downloads/download-visual-studio-vs
      Select "Visual Studio Community 2017 for Windows Desktop" version 15.3 or newer (to include .NET standard 2.0).<br >
-   ● Microsoft .NET 4.0 <br >
-   ● .NET standard 2.0 <br >
+   d. Microsoft .NET 4.0 <br >
+   e. .NET standard 2.0 <br >
 
 2. Check out
 
-   ● Create an empty folder anywhere <br >
-   ● In explorer left click and select "Git Clone"<br >
-   ● set URL https://github.com/ArduPilot/MissionPlanner
+   a. Create an empty folder anywhere <br >
+   b. In explorer left click and select "Git Clone"<br >
+   c. set URL https://github.com/ArduPilot/MissionPlanner
      OK
 
 3. Build
 
-   ● Open MissionPlanner.sln with Visual Studio 2017 for windows desktop.<br >
-   ● Compile.<br >
+   a. Open MissionPlanner.sln with Visual Studio 2017 for windows desktop.<br >
+   b. Compile.<br >
 
 -----------MONO-------------
 
-   ● run using 
-     mono MissionPlanner.exe<br >
-   ● run debuging
-     MONO_LOG_LEVEL=debug mono MissionPlanner.exe<br >
-   ● you need prereq's
-   `sudo apt-get install mono-runtime libmono-system-windows-forms4.0-cil libmono-system-core4.0-cil libmono-winforms2.0-cil     libmono-corlib2.0-cil libmono-system-management4.0-cil libmono-system-xml-linq4.0-cil`
+   c. run using 
+      mono MissionPlanner.exe<br >
+   d. run debuging
+      MONO_LOG_LEVEL=debug mono MissionPlanner.exe<br >
+   e. you need prereq's
+     `sudo apt-get install mono-runtime libmono-system-windows-forms4.0-cil libmono-system-core4.0-cil libmono-winforms2.0-         cil libmono-corlib2.0-cil libmono-system-management4.0-cil libmono-system-xml-linq4.0-cil`
 
 # Darknet-for-Object-Detection-by-Octocopter <br >
 For actual info regarding Darknet, visit <br >
@@ -55,4 +55,4 @@ Website : https://pjreddie.com/darknet/
                        `cd darknet`<br >
                        `wget https://pjreddie.com/media/files/yolov3-tiny.weights`<br >
                        `make`<br >
-4. Running the model: `darknet.exe detector demo cfg/coco.data cfg/yolov3-tiny.cfg yolov3-tiny.weights -c 0`
+4. Running the model:`darknet.exe detector demo cfg/coco.data cfg/yolov3-tiny.cfg yolov3-tiny.weights -c 0`
