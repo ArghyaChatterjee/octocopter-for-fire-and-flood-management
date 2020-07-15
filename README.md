@@ -24,22 +24,31 @@ License : https://github.com/ArduPilot/MissionPlanner/blob/master/COPYING.txt
 
 Those instructions were tested on Ubuntu 18.04.
 Please install Mono, either :
-- ` sudo apt install mono-runtime libmono-system-windows-forms4.0-cil libmono-system-core4.0-cil libmono-winforms2.0-cil libmono-corlib2.0-cil libmono-system-management4.0-cil libmono-system-xml-linq4.0-cil`
+```
+sudo apt install mono-runtime libmono-system-windows-forms4.0-cil libmono-system-core4.0-cil libmono-winforms2.0-cil libmono-corlib2.0-cil libmono-system-management4.0-cil libmono-system-xml-linq4.0-cil
+```
 
 or full Mono :
-- `sudo apt install mono-complete`
+```
+sudo apt install mono-complete
+```
 
 #### Launching
 
 - Get the lastest zipped version of Mission Planner here : https://firmware.ardupilot.org/Tools/MissionPlanner/MissionPlanner-latest.zip
 - Unzip in the directory you want
 - Go into the directory
-- run with `mono MissionPlanner.exe`
+- run with: 
+```
+mono MissionPlanner.exe
+```
 
-You can debug Mission Planner on Mono with `MONO_LOG_LEVEL=debug mono MissionPlanner.exe`
+You can debug Mission Planner on Mono with:
+```
+MONO_LOG_LEVEL=debug mono MissionPlanner.exe
+```
 
 # Darknet-for-Object-Detection-by-Octocopter
-============================================
 
 For actual info regarding Darknet, visit <br >
 Github page : https://github.com/AlexeyAB/darknet<br >
@@ -61,4 +70,7 @@ git clone https://github.com/ArghyaChatterjee/Octocopter-for-Fire-and-Flood-Mana
 cd darknet && wget https://pjreddie.com/media/files/yolov3-tiny.weights
 make -j4
 ```
-4. Running the model:`darknet.exe detector demo cfg/coco.data cfg/yolov3-tiny.cfg yolov3-tiny.weights -c 0`
+4. Running the model:
+```
+darknet.exe detector demo cfg/coco.data cfg/yolov3-tiny.cfg yolov3-tiny.weights -c 0
+```
