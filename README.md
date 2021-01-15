@@ -42,6 +42,11 @@ You can debug Mission Planner on Mono with:
 MONO_LOG_LEVEL=debug mono MissionPlanner.exe
 ```
 
+## Demo of Octocopter
+<p align="center">
+    <img src="assets/F2_Fightocopter.png", width="600">
+</p>
+
 # Darknet-for-Object-Detection-by-Octocopter
 
 For actual info regarding Darknet, visit <br >
