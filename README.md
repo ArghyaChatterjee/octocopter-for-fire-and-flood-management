@@ -1,6 +1,6 @@
 # Octocopter-for-fire-and-flood-management <br >
 
-It's a remote controlled drone with 8 arms to fly and an additional arm to carry fire fighting hose pipe to throw water to fire affected area, and to carry food to people in flood affected area. For watching the copter in action, please visit: https://www.youtube.com/watch?v=dqQoOxy7XEo&list=PLVy6YSUUzzp0ME0aE1SHiJquqTTtoAA5Z
+It's a remote controlled drone with 8 arms to fly and an additional arm to carry fire fighting hose pipe to throw water to fire affected area, and to carry food to people in flood affected area. For watching the copter in action, please visit [here](https://www.youtube.com/watch?v=dqQoOxy7XEo&list=PLVy6YSUUzzp0ME0aE1SHiJquqTTtoAA5Z).
 
 # Mission-Planner-for-Ground-Station
 
@@ -16,7 +16,7 @@ It's a remote controlled drone with 8 arms to fly and an additional arm to carry
 
 #### Requirements
 
-Those instructions were tested on Ubuntu 18.04.
+Those instructions were tested on Ubuntu 16.04.
 Please install Mono, either :
 ```
 sudo apt install mono-runtime libmono-system-windows-forms4.0-cil libmono-system-core4.0-cil libmono-winforms2.0-cil libmono-corlib2.0-cil libmono-system-management4.0-cil libmono-system-xml-linq4.0-cil
@@ -42,10 +42,15 @@ You can debug Mission Planner on Mono with:
 MONO_LOG_LEVEL=debug mono MissionPlanner.exe
 ```
 
-## Demo of Octocopter
+## Mechanical Design of Octocopter
 <p float="left">
   <img src="assets/Octocopter.jpg", width="400">
   <img src="assets/F2_Fightocopter.png", width="425">
+</p>
+
+## Mission Planner Overview
+<p align="center">
+  <img src="assets/mission_planner.png", width="400">
 </p>
 
 # Darknet-for-Object-Detection-by-Octocopter
