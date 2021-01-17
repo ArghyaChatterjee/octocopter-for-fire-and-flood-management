@@ -1,6 +1,9 @@
 # Octocopter-for-fire-and-flood-management <br >
 
-It's a remote controlled drone with 8 arms to fly and an additional arm to carry fire fighting hose pipe to throw water to fire affected area, and to carry food to people in flood affected area. For watching the copter in action, please visit [here](https://www.youtube.com/watch?v=dqQoOxy7XEo&list=PLVy6YSUUzzp0ME0aE1SHiJquqTTtoAA5Z).
+It's a Pixhawk & Raspberry Pi based remote controlled or autonomous 8-armed UAV which will fight as firefighter & work as flood relief distributor.
+
+## Live Demo
+For watching the copter in action, please visit [here](https://www.youtube.com/watch?v=dqQoOxy7XEo&list=PLVy6YSUUzzp0ME0aE1SHiJquqTTtoAA5Z).
 
 # Mission-Planner-for-Ground-Station
 
@@ -10,11 +13,9 @@ It's a remote controlled drone with 8 arms to fly and an additional arm to carry
 - Changelog : https://github.com/ArduPilot/MissionPlanner/blob/master/ChangeLog.txt  
 - License : https://github.com/ArduPilot/MissionPlanner/blob/master/COPYING.txt  
 
-## How to compile
+## Compile On Linux
 
-### On Linux
-
-#### Requirements
+### Requirements
 
 Those instructions were tested on Ubuntu 16.04.
 Please install Mono, either :
@@ -27,7 +28,7 @@ or full Mono :
 sudo apt install mono-complete
 ```
 
-#### Launching
+### Launching
 
 - Get the lastest zipped version of Mission Planner here : https://firmware.ardupilot.org/Tools/MissionPlanner/MissionPlanner-latest.zip
 - Unzip in the directory you want
