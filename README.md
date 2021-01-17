@@ -50,7 +50,7 @@ MONO_LOG_LEVEL=debug mono MissionPlanner.exe
 
 ## Mission Planner Overview
 <p align="center">
-  <img src="assets/Mission_planner.png", width="400">
+  <img src="assets/Mission_planner.png", width="600">
 </p>
 
 # Darknet-for-Object-Detection-by-Octocopter
