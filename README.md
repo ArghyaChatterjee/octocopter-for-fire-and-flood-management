@@ -44,8 +44,8 @@ MONO_LOG_LEVEL=debug mono MissionPlanner.exe
 
 ## Demo of Octocopter
 <p float="left">
-  <img src="assets/Octocopter.jpg", width="452">
-  <img src="assets/F2_Fightocopter.png", width="480">
+  <img src="assets/Octocopter.jpg", width="442">
+  <img src="assets/F2_Fightocopter.png", width="470">
 </p>
 
 # Darknet-for-Object-Detection-by-Octocopter
