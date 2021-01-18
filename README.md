@@ -2,16 +2,21 @@
 
 It's a Pixhawk & Raspberry Pi based remote controlled or autonomous 8-armed UAV which will fight as firefighter & work as flood relief distributor.
 
+## Project Contributor
+1. Arghya Chatterjee
+2. Rumayel Hasan Pallock 
+3. Boshra Aziz Roshni
+4. Al Mamun
 ## Live Demo
 For watching the copter in action, please visit [here](https://www.youtube.com/watch?v=dqQoOxy7XEo&list=PLVy6YSUUzzp0ME0aE1SHiJquqTTtoAA5Z).
 
-## Mechanical Design of Octocopter
+## Delivery Mission Octocopter
 <p float="left">
   <img src="assets/Octocopter.jpg", width="400">
   <img src="assets/F2_Fightocopter.png", width="425">
 </p>
 
-# Mission-Planner-for-Ground-Station
+## Mission-Planner-for-Ground-Station
 
 - Website : http://ardupilot.org/planner/  
 - Forum : http://discuss.ardupilot.org/c/ground-control-software/mission-planner
@@ -53,7 +58,7 @@ You can debug Mission Planner on Mono with:
 MONO_LOG_LEVEL=debug mono MissionPlanner.exe
 ```
 
-# Face-Recognition-During-Delivery-Mission
+## Face-Recognition-During-Delivery-Mission
 <p align="center">
   <img src="assets/delivery detection.gif", width="600">
 </p>
