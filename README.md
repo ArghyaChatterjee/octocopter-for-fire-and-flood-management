@@ -54,29 +54,26 @@ MONO_LOG_LEVEL=debug mono MissionPlanner.exe
   <img src="assets/Mission_planner.png", width="600">
 </p>
 
-# Darknet-for-Object-Detection-by-Octocopter
-
-For actual info regarding Darknet, visit <br >
-Github page : https://github.com/AlexeyAB/darknet<br >
-Website : https://pjreddie.com/darknet/  
+# Face-Recognition-During-Delivery-Mission
+<p align="center">
+  <img src="assets/delivery detection.gif", width="600">
+</p>
 
 1. Update libraries: 
 ```
 sudo apt-get update
 sudo apt-get upgrade
 ```
-2. Export CUDA Path: 
+2. Installing Face Recognition Module: 
 ```
-export PATH=/usr/local/cuda-10.0/bin${PATH:+:${PATH}}
-export LD_LIBRARY_PATH=/usr/local/cuda-10.0/lib64${LD_LIBRARY_PATH:+:${LD_LIBRARY_PATH}}
+sudo apt-get install build-essential cmake
+sudo apt-get install python3-setuptools
+sudo apt-get -y install python3-pip
+sudo pip3 install dlib
+sudo pip3 install face_recognition
 ```
-3. Installing Darknet: 
+3. Running the Delivery Recognition model:
 ```
-git clone https://github.com/ArghyaChatterjee/Octocopter-for-Fire-and-Flood-Management.git
-cd darknet && wget https://pjreddie.com/media/files/yolov3-tiny.weights
-make -j4
-```
-4. Running the model:
-```
-./darknet detector demo cfg/coco.data cfg/yolov3-tiny.cfg yolov3-tiny.weights -c 0
+cd ~/UAV Delivery Recognition 
+python3 Drone_Delivery.py
 ```
