@@ -5,6 +5,12 @@ It's a Pixhawk & Raspberry Pi based remote controlled or autonomous 8-armed UAV 
 ## Live Demo
 For watching the copter in action, please visit [here](https://www.youtube.com/watch?v=dqQoOxy7XEo&list=PLVy6YSUUzzp0ME0aE1SHiJquqTTtoAA5Z).
 
+## Mechanical Design of Octocopter
+<p float="left">
+  <img src="assets/Octocopter.jpg", width="400">
+  <img src="assets/F2_Fightocopter.png", width="425">
+</p>
+
 # Mission-Planner-for-Ground-Station
 
 - Website : http://ardupilot.org/planner/  
@@ -27,6 +33,10 @@ or full Mono :
 ```
 sudo apt install mono-complete
 ```
+## Mission Planner Overview
+<p align="center">
+  <img src="assets/Mission_planner.png", width="600">
+</p>
 
 ### Launching
 
@@ -42,17 +52,6 @@ You can debug Mission Planner on Mono with:
 ```
 MONO_LOG_LEVEL=debug mono MissionPlanner.exe
 ```
-
-## Mechanical Design of Octocopter
-<p float="left">
-  <img src="assets/Octocopter.jpg", width="400">
-  <img src="assets/F2_Fightocopter.png", width="425">
-</p>
-
-## Mission Planner Overview
-<p align="center">
-  <img src="assets/Mission_planner.png", width="600">
-</p>
 
 # Face-Recognition-During-Delivery-Mission
 <p align="center">
