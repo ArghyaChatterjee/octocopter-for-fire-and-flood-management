@@ -12,7 +12,7 @@ For watching the copter in action, please visit [here](https://www.youtube.com/w
 
 ## Delivery Mission Octocopter
 <p float="left">
-  <img src="assets/Octocopter.jpg", width="400">
+  <img src="assets/Octocopter.jpg", width="380">
   <img src="assets/Solid_Design.jpg", width="450">
 </p>
 
