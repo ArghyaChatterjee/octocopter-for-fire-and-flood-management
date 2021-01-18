@@ -24,26 +24,12 @@ For watching the copter in action, please visit [here](https://www.youtube.com/w
 - Changelog : https://github.com/ArduPilot/MissionPlanner/blob/master/ChangeLog.txt  
 - License : https://github.com/ArduPilot/MissionPlanner/blob/master/COPYING.txt  
 
-## Compile On Linux
-
-### Requirements
-
-Those instructions were tested on Ubuntu 16.04.
-Please install Mono, either :
-```
-sudo apt install mono-runtime libmono-system-windows-forms4.0-cil libmono-system-core4.0-cil libmono-winforms2.0-cil libmono-corlib2.0-cil libmono-system-management4.0-cil libmono-system-xml-linq4.0-cil
-```
-
-or full Mono :
-```
-sudo apt install mono-complete
-```
 ## Mission Planner Overview
 <p align="center">
   <img src="assets/Mission_planner.png", width="600">
 </p>
 
-### Launching
+## Launch on Windows
 
 - Get the lastest zipped version of Mission Planner here : https://firmware.ardupilot.org/Tools/MissionPlanner/MissionPlanner-latest.zip
 - Unzip in the directory you want
@@ -56,6 +42,18 @@ mono MissionPlanner.exe
 You can debug Mission Planner on Mono with:
 ```
 MONO_LOG_LEVEL=debug mono MissionPlanner.exe
+```
+## Compile On Linux
+
+Those instructions were tested on Ubuntu 16.04.
+Please install Mono, either :
+```
+sudo apt install mono-runtime libmono-system-windows-forms4.0-cil libmono-system-core4.0-cil libmono-winforms2.0-cil libmono-corlib2.0-cil libmono-system-management4.0-cil libmono-system-xml-linq4.0-cil
+```
+
+or full Mono :
+```
+sudo apt install mono-complete
 ```
 
 ## Face-Recognition-During-Delivery-Mission
