@@ -12,8 +12,8 @@ For watching the copter in action, please visit [here](https://www.youtube.com/w
 
 ## Delivery Mission Octocopter
 <p float="left">
-  <img src="assets/Octocopter.jpg", width="380">
-  <img src="assets/Solid_Design.jpg", width="450">
+  <img src="assets/Fire_Fighter.png", width="380">
+  <img src="assets/F2_Fightocopter.png", width="450">
 </p>
 
 ## Mission-Planner-for-Ground-Station
@@ -43,6 +43,12 @@ You can debug Mission Planner on Mono with:
 ```
 MONO_LOG_LEVEL=debug mono MissionPlanner.exe
 ```
+## Delivery Mission Octocopter
+<p float="left">
+  <img src="assets/Octocopter.jpg", width="380">
+  <img src="assets/Solid_Design.jpg", width="450">
+</p>
+
 ## Compile On Linux
 
 Those instructions were tested on Ubuntu 16.04.
