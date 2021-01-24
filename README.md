@@ -4,7 +4,7 @@ It's a Pixhawk & Raspberry Pi based remote controlled or autonomous 8-armed UAV 
 
 ## Hardware Design
 <p float="left">
-  <img src="assets/3D_view.png", width="380">
+  <img src="assets/3D_view.png", width="370">
   <img src="assets/Solid_Design.jpg", width="450">
 </p>
 
@@ -51,8 +51,8 @@ MONO_LOG_LEVEL=debug mono MissionPlanner.exe
 ```
 ## Delivery Mission Octocopter
 <p float="left">
-  <img src="assets/Octocopter.jpg", width="380">
-  <img src="assets/Solid_Design.jpg", width="450">
+  <img src="assets/Octocopter.jpg", width="400">
+  <img src="assets/Front_octocopter.jpg", width="400">
 </p>
 
 ## Compile On Linux
