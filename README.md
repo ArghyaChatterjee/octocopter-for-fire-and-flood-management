@@ -2,6 +2,12 @@
 
 It's a Pixhawk & Raspberry Pi based remote controlled or autonomous 8-armed UAV which will fight as firefighter & work as flood relief distributor.
 
+## Hardware Design
+<p float="left">
+  <img src="assets/3D_view.png", width="360">
+  <img src="assets/Front_view.png", width="470">
+</p>
+
 ## Project Contributor
 1. Arghya Chatterjee
 2. Rumayel Hasan Pallock 
