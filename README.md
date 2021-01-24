@@ -4,8 +4,8 @@ It's a Pixhawk & Raspberry Pi based remote controlled or autonomous 8-armed UAV 
 
 ## Hardware Design
 <p float="left">
-  <img src="assets/3D_view.png", width="360">
-  <img src="assets/Front_view.png", width="470">
+  <img src="assets/3D_view.png", width="380">
+  <img src="assets/Solid_Design.jpg", width="450">
 </p>
 
 ## Project Contributor
