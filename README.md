@@ -91,3 +91,8 @@ sudo pip3 install face_recognition
 cd ~/UAV Delivery Recognition 
 python3 Drone_Delivery.py
 ```
+## Competition Achievement
+<p float="left">
+  <img src="assets/Arghya.jpg", width="400">
+  <img src="assets/Pollock.jpg", width="410">
+</p>
