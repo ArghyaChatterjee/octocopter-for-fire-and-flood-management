@@ -94,5 +94,5 @@ python3 Drone_Delivery.py
 ## Competition Achievement
 <p float="left">
   <img src="assets/Arghya.jpg", width="400">
-  <img src="assets/Pollock.jpg", width="400">
+  <img src="assets/Pollock.jpg", width="395">
 </p>
