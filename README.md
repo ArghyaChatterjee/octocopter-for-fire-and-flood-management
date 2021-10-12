@@ -96,3 +96,8 @@ python3 Drone_Delivery.py
   <img src="assets/Arghya.jpg", width="400">
   <img src="assets/Pollock.jpg", width="395">
 </p>
+
+## Project Goal
+<p float="center">
+  <img src="assets/fire_drone.gif", width="400">
+</p>
