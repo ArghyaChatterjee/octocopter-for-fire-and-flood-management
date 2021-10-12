@@ -16,7 +16,7 @@ It's a Pixhawk & Raspberry Pi based remote controlled or autonomous 8-armed UAV 
 ## Live Demo
 For watching the copter in action, please visit [here](https://www.youtube.com/watch?v=dqQoOxy7XEo&list=PLVy6YSUUzzp0ME0aE1SHiJquqTTtoAA5Z).
 
-## Fire Fighter Octocopter
+# Fire Fighter Octocopter
 <p float="left">
   <img src="assets/Fire_Fighter.png", width="400">
   <img src="assets/F2_Fightocopter.png", width="420">
@@ -49,7 +49,7 @@ You can debug Mission Planner on Mono with:
 ```
 MONO_LOG_LEVEL=debug mono MissionPlanner.exe
 ```
-## Delivery Mission Octocopter
+# Delivery Mission Octocopter
 <p float="left">
   <img src="assets/Octocopter.jpg", width="400">
   <img src="assets/Front_octocopter.jpg", width="400">
@@ -98,6 +98,7 @@ python3 Drone_Delivery.py
 </p>
 
 ## Project Goal
-<p float="center">
-  <img src="assets/fire_drone.gif", width="400">
+<p align="center">
+  <img src="assets/fire_drone.gif", width="600">
 </p>
+Source Video: https://www.youtube.com/watch?v=Bm2BVTTir4c
