@@ -99,6 +99,11 @@ python3 Drone_Delivery.py
 
 ## Project Goal
 <p align="center">
+  <img src="assets/fire_drone_2.gif", width="600">
+</p>
+Source Video: https://www.youtube.com/watch?v=WFqThcMIN7A
+
+<p align="center">
   <img src="assets/fire_drone.gif", width="600">
 </p>
 Source Video: https://www.youtube.com/watch?v=Bm2BVTTir4c
