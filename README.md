@@ -2,6 +2,8 @@
 
 It's a Pixhawk & Raspberry Pi based remote controlled or autonomous 8-armed UAV which will fight as firefighter & work as flood relief distributor.
 
+The project was featured at IEEE Maker Fair Website: https://transmitter.ieee.org/makerproject/view/cabcb
+
 ## Hardware Design
 <p float="left">
   <img src="assets/3D_view.png", width="370">
